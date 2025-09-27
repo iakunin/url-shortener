@@ -1,0 +1,3 @@
+abc: "https://google.com"
+def: "https://yahoo.com"
+uvw/xyz: "https://some-other-site.com"  # The <key> can be a path
